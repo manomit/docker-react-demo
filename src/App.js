@@ -16,6 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+         Learn react.
          Fuck you mark zukarberg
         </a>
       </header>
