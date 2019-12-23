@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
          Learn react.
-         Fuck you mark zukarberg
+         all work and no play makes jack a dull boy
         </a>
       </header>
     </div>
